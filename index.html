@@ -5,14 +5,31 @@
   <meta name="viewport" content="width=device-width,initial-scale=1">
   <meta charset="UTF-8">
   <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify/themes/vue.css">
+  <script src="//cdn.jsdelivr.net/npm/@waline/client@v2/dist/waline.js"></script>
+  <link
+    rel="stylesheet"
+    href="//cdn.jsdelivr.net/npm/@waline/client@v2/dist/waline.css"
+  />
 </head>
 <body>
   <div id="app"></div>
   <script>
     window.$docsify = {
-      //...
+      homepage: 'archive.md',
+      count: {
+        language: "chinese", // default:english|chinese
+      },
+      waline: {
+        // 必填。例子：https://your-domain.vercel.app
+        serverURL: "https://wl.mrl646.top",
+        // 开启浏览量统计
+        pageview: false,
+        // ...
+        // 不支持 el 和 path 参数自定义
+      },
     }
   </script>
   <script src="//cdn.jsdelivr.net/npm/docsify/lib/docsify.min.js"></script>
+  <script src="//cdn.jsdelivr.net/npm/docsify-waline@2/docsify-waline.min.js"></script>
 </body>
 </html>
