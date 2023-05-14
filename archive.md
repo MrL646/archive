@@ -2,7 +2,7 @@
 
 ##### [windows效果音] last remote
 
-[last remote](last-remote.md ':include')
+[last remote](last-remote.mp4 ':include')
 
 原简介：  
 在5.14日前临时赶工做出来的音mad(之一)  
