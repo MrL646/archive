@@ -9,4 +9,4 @@
 
 视频本体：  
 
-[2](2.mp4 ':include')
+[2](https://static.mrl646.top/api/raw/?path=/assets/2.mp4 ':include')
