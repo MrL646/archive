@@ -9,8 +9,8 @@
 
 纯音频：   
 
-[last remote.mp3](https://static.mrl646.top/api/raw/?path=/assets/last-remote.mp3 ':include')
+[last remote.mp3](https://static.mrl646.top/assets/last-remote.mp3 ':include')
 
 视频本体：  
  
-[last remote](https://static.mrl646.top/api/raw/?path=/assets/last-remote.mp4 ':include')
+[last remote](https://static.mrl646.top/assets/last-remote.mp4 ':include')
