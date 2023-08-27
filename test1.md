@@ -9,8 +9,8 @@
 
 纯音频：   
 
-[2.mp3](https://static.mrl646.top/api/raw/?path=/assets/2.mp3 ':include')
+[2.mp3](https://static.mrl646.top/assets/2.mp3 ':include')
 
 视频本体：  
 
-[2](https://static.mrl646.top/api/raw/?path=/assets/2.mp4 ':include')
+[2](https://static.mrl646.top/assets/2.mp4 ':include')
