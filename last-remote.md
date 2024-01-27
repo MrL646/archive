@@ -11,6 +11,6 @@
 
 [last remote.mp3](https://static.mrl646.top/assets/last-remote.mp3 ':include')
 
-视频本体：  
+视频本体下载：  
  
-[last remote](https://static.mrl646.top/assets/last-remote.mp4 ':include')
+[last remote](https://static.mrl646.top/assets/last-remote.mp4)
