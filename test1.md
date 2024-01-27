@@ -11,6 +11,6 @@
 
 [2.mp3](https://static.mrl646.top/assets/2.mp3 ':include')
 
-视频本体：  
+视频本体下载：  
 
-[2](https://static.mrl646.top/assets/2.mp4 ':include')
+[2](https://static.mrl646.top/assets/2.mp4)
